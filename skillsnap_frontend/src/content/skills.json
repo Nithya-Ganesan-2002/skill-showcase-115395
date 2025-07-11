@@ -1,0 +1,14 @@
+[
+  {
+    "category": "Languages",
+    "skills": ["TypeScript", "JavaScript", "Python", "Go"]
+  },
+  {
+    "category": "Frameworks",
+    "skills": ["Next.js", "React", "Node.js", "Express"]
+  },
+  {
+    "category": "Tools",
+    "skills": ["Git", "Docker", "Vercel", "Jest"]
+  }
+]
